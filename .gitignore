@@ -1,0 +1,78 @@
+# Visual Studio files
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.vcxproj
+*.suo
+*.sdf
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sbr
+*.idb
+*.pdb
+*.db
+*.tlog
+*.ilk
+*.log
+*.lst
+*.obj
+Build/
+Debug/
+Release/
+x64/
+*.res
+*.pch
+*.ipch
+*.tlb
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipynb
+
+# Debug files
+*.dSYM/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vs/
